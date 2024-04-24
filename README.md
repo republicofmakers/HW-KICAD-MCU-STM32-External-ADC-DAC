@@ -10,6 +10,7 @@ ADC => (ADC141S626 14-Bit, 50 kSPS to 250 kSPS)
 DAC => (DAC7563SDGSR 12-Bit, 0 to 3.3V)
 
 You can order this board (incl. SMT assembly) at https://www.jlcpcb.com. 
+
 Gerber and assembly files are in the relevant repo folders.
 
 Mixed Signal Hardware Design with Kicad
