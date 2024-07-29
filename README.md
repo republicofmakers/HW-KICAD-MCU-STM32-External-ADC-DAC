@@ -5,6 +5,7 @@
  <br />
 Image generated with Kicad 3D viewer.
   <br />
+  
 * You can download and check the project in Kicad.
 * You can order this board (incl. SMT assembly) at https://www.jlcpcb.com. 
 * Gerber and assembly files are in the relevant repo folders.
