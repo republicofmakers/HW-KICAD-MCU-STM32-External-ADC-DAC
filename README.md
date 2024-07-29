@@ -1,6 +1,6 @@
 # Mixed Signal Hardware 3D Model with Kicad
 
-<img width="1010" alt="Picture" src="https://github.com/republicofmakers/MixedSignalHardware/assets/114834611/c065a555-b0a6-479c-8f63-004c0e68844c">
+<img width="1010" alt="Picture-Front1" src="https://github.com/user-attachments/assets/4e9721bd-0410-4e88-bec4-bf38cb5dc754">
 
 * You can download and check the project in Kicad.
 * You can order this board (incl. SMT assembly) at https://www.jlcpcb.com. 
