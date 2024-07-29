@@ -13,7 +13,7 @@
 * A kalman filter for noise
 * Also how to isolate the part with PCB cutouts.
 
-* NOTE:If you are an employer , you can check out my skills...
+NOTE:If you are an employer , you can check out my skills...
 
 # Where can you use it?
 * If you need many ADC or DAC readings, STM32 have limited ADC/DAC converters, such as if you design an SDD tester etc. 
@@ -30,6 +30,6 @@
 * Take the project, adapt it , use it. I hope it helps you...
 
 
-* STM32F1 based ADC / DAC signal analyzer
-* Mixed Signal Hardware Design with Kicad.
-* Created By Ceyhun Pempeci
+  STM32F1 based ADC / DAC signal analyzer
+  Mixed Signal Hardware Design with Kicad.
+  Created By Ceyhun Pempeci
