@@ -1,8 +1,6 @@
 # Mixed Signal Hardware Design
 
 ![Picture-Front1](https://github.com/user-attachments/assets/5b0512be-3641-4ee9-8448-70b26a146de4)
-
- <br />
 Image generated with Kicad 3D viewer.
   <br />
   
