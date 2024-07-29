@@ -23,22 +23,22 @@ NOTE:If you are an employer , you can check out my skills...
 * I used these parts because I had at my invertory, but I think you get the idea.
 * If you need filtering for noise, kalman filters are so common in industry. Drones etc.
 
-
-
-
+<br />
+<br />
+<br />
 
 * Take the project, adapt it , use it. I hope it helps you...
 
 
-
-
-
-
-
-
-
-
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
   STM32F1 based ADC / DAC signal analyzer <br />
   Mixed Signal Hardware Design with Kicad. <br />
