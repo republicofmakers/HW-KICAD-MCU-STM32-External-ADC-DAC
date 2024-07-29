@@ -30,6 +30,6 @@ NOTE:If you are an employer , you can check out my skills...
 * Take the project, adapt it , use it. I hope it helps you...
 
 
-  STM32F1 based ADC / DAC signal analyzer
-  Mixed Signal Hardware Design with Kicad.
-  Created By Ceyhun Pempeci
+  STM32F1 based ADC / DAC signal analyzer <br />
+  Mixed Signal Hardware Design with Kicad. <br />
+  Created By Ceyhun Pempeci <br />
