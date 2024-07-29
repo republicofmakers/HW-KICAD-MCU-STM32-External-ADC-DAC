@@ -35,9 +35,11 @@ Don't forget the test with LTSPICE.
 <br />
 <br />
 
- **STM32F1 based ADC / DAC signal analyzer** 
- <br />
- **Mixed Signal Hardware Design with Kicad** 
- <br />
- **Created By Ceyhun Pempeci** 
- <br />
+ **"STM32F1 based ADC / DAC signal analyzer"** 
+
+
+ **"Mixed Signal Hardware Design with Kicad"** 
+
+
+ **!!Created By Ceyhun Pempeci!!** 
+
