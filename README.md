@@ -1,8 +1,10 @@
-# Hardware 3D Model with Kicad
+# Mixed Signal Hardware Design
 
 ![Picture-Front1](https://github.com/user-attachments/assets/5b0512be-3641-4ee9-8448-70b26a146de4)
 
-
+ <br />
+Image generated with Kicad 3D viewer.
+  <br />
 * You can download and check the project in Kicad.
 * You can order this board (incl. SMT assembly) at https://www.jlcpcb.com. 
 * Gerber and assembly files are in the relevant repo folders.
