@@ -1,4 +1,4 @@
-# Mixed Signal Hardware
+# Mixed Signal Hardware 3D Model with Kicad
 
 <img width="1010" alt="Picture" src="https://github.com/republicofmakers/MixedSignalHardware/assets/114834611/c065a555-b0a6-479c-8f63-004c0e68844c">
 
@@ -28,6 +28,16 @@ NOTE:If you are an employer , you can check out my skills...
 
 
 * Take the project, adapt it , use it. I hope it helps you...
+
+
+
+
+
+
+
+
+
+
 
 
   STM32F1 based ADC / DAC signal analyzer <br />
