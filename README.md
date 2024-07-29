@@ -1,6 +1,4 @@
-# Mixed Signal Hardware 3D Model with Kicad
-<br />
-
+# Hardware 3D Model with Kicad
 
 
 
