@@ -1,6 +1,6 @@
 # Hardware 3D Model with Kicad
 
-<img width="1010" alt="Picture-Front1" src="https://github.com/user-attachments/assets/b5f8e5ca-2b6d-4a19-993d-06f777114709">
+![Picture-Front1](https://github.com/user-attachments/assets/5b0512be-3641-4ee9-8448-70b26a146de4)
 
 
 * You can download and check the project in Kicad.
