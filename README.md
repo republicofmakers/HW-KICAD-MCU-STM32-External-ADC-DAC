@@ -16,7 +16,7 @@
 NOTE:If you are an employer , you can check out my skills...
 
 # Where can you use it?
-* If you need many ADC or DAC readings, STM32 have limited ADC/DAC converters, such as if you design an SDD tester etc. 
+* If you need many ADC or DAC readings, STM32 have limited number of ADC/DAC , such as if you design an SDD tester etc. 
 * If you need more accurate readings, I used 14-Bit for ADC and 12-Bit for DAC but you can go 16-BIT or more...
 * ADC => (ADC141S626 14-Bit, 50 kSPS to 250 kSPS)
 * DAC => (DAC7563SDGSR 12-Bit, 0 to 3.3V)
