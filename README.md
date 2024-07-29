@@ -9,9 +9,9 @@
 # With this project you can learn how to design:
 * Switching voltage regulator and Low-dropout regulator
 * STM32 MCU that using USB & SPI interface
-* ADC / DAC intergration
-* A kalman filter for noise
-* Also how to isolate the part with PCB cutouts.
+* ADC / DAC integration
+* Creating kalman filter for noise
+* Also how to isolate the part with PCB cutouts for noise
 
 NOTE:If you are an employer , you can check out my skills...
 
@@ -21,7 +21,8 @@ NOTE:If you are an employer , you can check out my skills...
 * ADC => (ADC141S626 14-Bit, 50 kSPS to 250 kSPS)
 * DAC => (DAC7563SDGSR 12-Bit, 0 to 3.3V)
 * I used these parts because I had at my invertory, but I think you get the idea.
-* If you need filtering for noise, kalman filters are so common in industry. Drones etc.
+* If you need filtering for noise, kalman filters are so common in industry. Drones etc.<br />
+Don't forget the test with LTSPICE.
 <br />
 <br />
 * Take the project, adapt it , use it. I hope it helps you...
