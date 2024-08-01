@@ -35,6 +35,11 @@ Don't forget the test with LTSPICE.
 <br />
 <br />
 
+![mixed signal](https://github.com/user-attachments/assets/29771743-a122-4468-a16f-b0d0330f8555)
+
+<br />
+<br />
+
  **STM32F1 based ADC / DAC signal analyzer** 
 
 
